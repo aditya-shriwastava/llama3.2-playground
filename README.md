@@ -1,2 +1,2 @@
-# llama3.2 Playground
-> Playground for experimenting with llama3.2 llm
+# llama3.2
+> rewriting llama3.2 from scratch in pytorch
